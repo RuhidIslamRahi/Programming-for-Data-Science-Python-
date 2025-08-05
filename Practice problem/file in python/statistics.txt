@@ -1,0 +1,3 @@
+Average score: 88.0
+Highest score: 95 (Alice)
+Lowest score: 78 (David)

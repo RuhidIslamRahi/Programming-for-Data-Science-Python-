@@ -1,0 +1,4 @@
+Hello Python.
+I am writing in a file.
+Hello Python.
+I am writing in a file.
